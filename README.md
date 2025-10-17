@@ -1,5 +1,7 @@
-Name: Idris Ayeni
+# DevOps Stage 0 - NGINX Deployment
+**Name:** Idris Ayeni
+**Slack username:** Dreees
 
-Username: idrisayeni
+Deployment of an NGINX server to serve a custom index.html for HNg 13- DevOps Stage 0
 
-Deployment of web server for Hng 13, Stage 0 task
+Server IP: 
