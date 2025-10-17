@@ -5,4 +5,4 @@
 
 Deployment of an NGINX server to serve a custom index.html for HNg 13- DevOps Stage 0
 
-Server IP: http://3.237.14.211/
+Server IP: 3.237.14.211
